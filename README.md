@@ -2,15 +2,17 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/frndsjoao)](https://github.com/frndsjoao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frnds-joao/)](https://www.linkedin.com/in/frnds-joao/)
+[![iCloud Badge] (https://img.shields.io/badge/-iCloud-3693f3?style=flat-square&logo=iCloud&logoColor=white&link=mailto:frndsjoao@icloud.com)](mailto:frndsjoao@icloud.com)]
+
 
 ## About me: 
 I'm João Pedro Assunção, 24yo and I started programming since early 2020! :smile:
 
 Currently I dream of getting a job as developer and starting my career.
 
- - Studying React.js & React Native.
+- :books: Studying React.js & React Native.
 
-> Own website/portfolio in progress...
+> :hourglass_flowing_sand: Own website/portfolio in progress...
 
 ---
 
