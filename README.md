@@ -8,9 +8,9 @@
 ## About me: 
 I'm João Pedro Assunção, 24yo and I started programming since early 2020! :smile:
 
-Currently I dream of getting a job as developer and starting my career.
+**Currently I dream of getting a job as developer and starting my career.**
 
--:books: Studying React.js & React Native.
+- :books: Studying React.js & React Native.
 
 > :hourglass_flowing_sand: - Own website/portfolio in progress...
 
