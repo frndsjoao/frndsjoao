@@ -1,11 +1,11 @@
-# Hi, I'm João!
+## Hi, I'm João!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/frndsjoao)](https://github.com/frndsjoao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frnds-joao/)](https://www.linkedin.com/in/frnds-joao/)
 [![iCloud Badge](https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=iCloud&logoColor=white&link=mailto:frndsjoao@icloud.com)](mailto:frndsjoao@icloud.com)
 
 
-## About me: 
+### About me: 
 I'm João Pedro Assunção, 24yo and I started programming since early 2020! :smile:
 
 **Currently I dream of getting a job as developer and starting my career.**
@@ -16,7 +16,7 @@ I'm João Pedro Assunção, 24yo and I started programming since early 2020! :sm
 
 ---
 
-## Techs:
+### Techs:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
