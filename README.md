@@ -8,7 +8,7 @@
 ### About me: 
 I'm João Pedro Assunção, 25yo and I started programming since early 2020! :smile:
 
-**Currently I dream of getting a job as developer and starting my career.**
+**Currently @Aspprev as Fullstack Developer.**
 
 - :books: Studying React.js & React Native.
 
