@@ -8,11 +8,11 @@
 ### About me: 
 I'm João Pedro Assunção, 25yo and I started programming since early 2020! :smile:
 
-**Currently @Aspprev as Fullstack Developer.**
+**Currently @ Forluz as Web and Mobile Developer.**
 
-- :books: Studying React.js & React Native.
+- :books: Studying ReactJS, NextJS and React Native.
 
-> :hourglass_flowing_sand: - Own website/portfolio in progress...
+> :hourglass_flowing_sand: - [https://joaofernandes.dev/](https://joaofernandes.dev/)
 
 ---
 
