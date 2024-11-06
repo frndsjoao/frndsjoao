@@ -10,7 +10,7 @@ I'm João Pedro Assunção, 28 years and I started programming since early 2020!
 
 **Currently @ Forluz as Mobile and Web Developer.**
 
-- :books: Currently studying Flutter and Go.
+- :books: Studying Flutter and Go.
 
 > Portfolio - [https://joaofernandes.dev/](https://joaofernandes.dev/)
 
