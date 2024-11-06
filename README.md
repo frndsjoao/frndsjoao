@@ -6,11 +6,11 @@
 
 
 ### About me: 
-I'm João Pedro Assunção, 26 years and I started programming since early 2020! :smile:
+I'm João Pedro Assunção, 28 years and I started programming since early 2020! :smile:
 
-**Currently @ Forluz as Web and Mobile Developer.**
+**Currently @ Forluz as Mobile and Web Developer.**
 
-- :books: Studying ReactJS, NextJS and React Native.
+- :books: Currently studying Flutter and Go.
 
 > Portfolio - [https://joaofernandes.dev/](https://joaofernandes.dev/)
 
