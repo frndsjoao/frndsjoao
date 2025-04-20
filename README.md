@@ -6,9 +6,9 @@
 
 
 ### About me: 
-I'm João Pedro Assunção, 28 years and I started programming since early 2020! :smile:
+I'm João Pedro Assunção, 29 years and I started programming since early 2020! :smile:
 
-**Currently @ Forluz as Mobile and Web Developer.**
+**Currently @ Sysmap as Mobile Developer / alocated @ C&A.**
 
 - :books: Studying Flutter and Go.
 
