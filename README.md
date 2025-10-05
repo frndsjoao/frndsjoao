@@ -10,7 +10,7 @@ I'm João Pedro Assunção, 29 years and I started programming since early 2020!
 
 **Currently @ Sysmap as Mobile Developer / alocated @ C&A.**
 
-- :books: Studying Flutter and Go.
+- :books: Studying React Native, Swift and Nodejs.
 
 > Portfolio - [https://joaofernandes.dev/](https://joaofernandes.dev/)
 
