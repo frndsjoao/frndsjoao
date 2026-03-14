@@ -6,7 +6,7 @@
 
 
 ### About me: 
-I'm João Pedro Assunção, 29 years and I started programming since early 2020! :smile:
+I'm João Pedro Assunção, 30 years and I started programming since early 2020! :smile:
 
 **Currently @ Sysmap as Mobile Developer / alocated @ C&A.**
 
